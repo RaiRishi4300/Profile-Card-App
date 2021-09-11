@@ -15,5 +15,6 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
+
 ## How It Looks Finally
 ![PROFILE-CARD 1](https://user-images.githubusercontent.com/78846281/113273852-ad2fc380-92fa-11eb-8052-117000d6f564.gif)
